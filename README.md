@@ -1,2 +1,4 @@
 # GitHubWebScraper
-By the end of this repo it should be able to get the followers, profile picture and various other informatiopn about a particular github user.
+This repo can take in any valid GitHub user, etract data such as their Name, Profile Picture, Followers and Following List, and how many contributions they had in the last year. 
+
+By Don Chacko
